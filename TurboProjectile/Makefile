@@ -1,7 +1,8 @@
 SOURCES := \
     src/memory.c \
     src/startup.c \
-    src/main.c
+    src/main.c \
+    src/interrupts.c
 
 CFLAGS ?= \
     -W -Wall -Wextra -Werror -Wundef -Wshadow -Wdouble-promotion -Wformat-truncation -Wconversion \

@@ -8,9 +8,9 @@ _estack = ORIGIN(SRAM) + LENGTH(SRAM);
 
 SECTIONS
 {
-    .vectors : { KEEP(*(.vectors)) } > flash
-    .text    : { *(.text*)         } > flash
-    .rodata  : { *(.rodata*)       } > flash
+    .rovectors : { KEEP(*(.rovectors)) } > flash
+    .text      : { *(.text*)           } > flash
+    .rodata    : { *(.rodata*)         } > flash
     
     .data :
     {
@@ -21,6 +21,13 @@ SECTIONS
     } > flash AT > SRAM
     
     _sidata = LOADADDR(.data);
+    
+    .vectors (NOLOAD) : ALIGN(128)
+    {
+        _svectors = .;
+        . = . + 408;
+        _evectors = .;
+    } > SRAM
     
     .bss :
     {

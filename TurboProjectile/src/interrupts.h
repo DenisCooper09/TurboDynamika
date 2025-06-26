@@ -11,4 +11,6 @@ static inline void cpsie(void)
     __asm volatile ("cpsie i" ::: "memory");
 }
 
+void default_isr(void);
+
 #endif
