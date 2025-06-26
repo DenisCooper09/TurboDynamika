@@ -20,7 +20,7 @@ __attribute__((naked, noreturn)) void _reset(void)
     _svectors[0] = _estack;
     _svectors[1] = _reset;
     
-    *((volatile u32 *)(0xE000ED08)) = (u32)_svectors[0];
+    *((volatile u32 *)(0xE000ED08)) = (u32)_svectors;
     
     cpsie();
     
