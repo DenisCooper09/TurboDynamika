@@ -23,8 +23,8 @@ int main(void)
     {
         GPIOC->ODR ^= (1UL << 13);
         
-        USART2->DR = 'A';
-        while (!(USART2->SR & (1UL << 6)));
+        u8 message[] = "Hello, World!\r\n\0";
+        usart_write_buffer(USART2, message, sizeof(message));
         
         for (u32 i = 0; i < 1000000; ++i);
     }
