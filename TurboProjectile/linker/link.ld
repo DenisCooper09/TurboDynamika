@@ -18,7 +18,7 @@ SECTIONS
         *(.first_data)
         *(.data SORT(.data.*))
         _edata = .;
-    }
+    } > flash AT > SRAM
     
     _sidata = LOADADDR(.data);
     
@@ -27,5 +27,5 @@ SECTIONS
         _sbss = .;
         *(.bss SORT(.bss.*) COMMON)
         _ebss = .;
-    }
+    } > SRAM
 }
