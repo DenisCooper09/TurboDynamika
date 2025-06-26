@@ -3,6 +3,19 @@
 #include "rcc.h"
 #include "gpio.h"
 #include "usart.h"
+#include "interrupts.h"
+
+void usart2_rx_isr(void)
+{
+    if (USART2->SR & (1 << 5))
+    {
+        volatile u8 data = (u8)USART2->DR;
+        
+        usart_write(USART2, data);
+        
+        GPIOC->ODR ^= (1UL << 13);
+    }
+}
 
 int main(void)
 {
@@ -19,15 +32,13 @@ int main(void)
     USART2->BRR  = F_CPU / 9600;                            // Set baud rate to 9600 baud
     USART2->CR1  |= (1UL << 2) | (1UL << 3) | (1UL << 13);  // Enable TX, RX, USART
     
-    while (1)
-    {
-        GPIOC->ODR ^= (1UL << 13);
-        
-        u8 message[] = "Hello, World!\r\n\0";
-        usart_write_buffer(USART2, message, sizeof(message));
-        
-        for (u32 i = 0; i < 1000000; ++i);
-    }
+    cpsid();
+    irq_register_isr(IRQ_USART2, usart2_rx_isr);
+    irq_enable(IRQ_USART2);
+    USART2->CR1 |= (1UL << 5);                              // Enable RXNE interrupt
+    cpsie();
+    
+    while (1) (void) 0;
     
     return 0;
 }
