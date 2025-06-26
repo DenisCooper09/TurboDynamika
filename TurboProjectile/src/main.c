@@ -1,8 +1,9 @@
+#include "rcc.h"
 #include "gpio.h"
 
 int main(void)
 {
-    *((volatile u32 *)(0x40023800 + 0x30)) = (1UL << 2);
+    RCC->AHB1ENR |= (1UL << 2);
     
     GPIOC->MODER |= (1UL << 26);
     GPIOC->ODR   &= ~(1UL << 13);
