@@ -1,4 +1,4 @@
-#define F_CPU 16000000UL
+#define F_CPU 96000000UL
 
 #include "rcc.h"
 #include "gpio.h"
@@ -10,10 +10,7 @@ void usart2_rx_isr(void)
     if (USART2->SR & (1 << 5))
     {
         volatile u8 data = (u8)USART2->DR;
-        
         usart_write(USART2, data);
-        
-        GPIOC->ODR ^= (1UL << 13);
     }
 }
 
@@ -38,7 +35,11 @@ int main(void)
     USART2->CR1 |= (1UL << 5);                              // Enable RXNE interrupt
     cpsie();
     
-    while (1) (void) 0;
+    while (1)
+    {
+        GPIOC->ODR ^= (1UL << 13);
+        for (u32 i = 0; i < 1000000; ++i);
+    }
     
     return 0;
 }
