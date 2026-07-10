@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=SystemOverview.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=SystemOverview.SchDoc|Designator=U_Microcontroller|SchDesignator=U_Microcontroller|FileName=Microcontroller.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Microcontroller.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=SystemOverview.SchDoc|Designator=U_Power|SchDesignator=U_Power|FileName=Power.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=SystemOverview.SchDoc|Designator=U_Sensors|SchDesignator=U_Sensors|FileName=Sensors.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Sensors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
