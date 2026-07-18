@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=pcb\TD_Avionics\TD_Avionics.PrjPcb
+[Project2]
+ProjectPath=sim\TD_Simulations\TD_Simulations.PrjPcb
+[Project3]
+ProjectPath=lib\TurboDynamikaLibrary.LibPkg
