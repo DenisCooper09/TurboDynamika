@@ -1,1 +1,2 @@
-Record=TopLevelDocument|FileName=PowerFilteringSim.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=GPSActAntPowerSim.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=GPSActAntPowerSim.SchDoc|FileName=PowerFilteringSim.SchDoc|SheetNumber=1
