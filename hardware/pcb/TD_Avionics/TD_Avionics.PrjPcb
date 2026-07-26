@@ -254,6 +254,10 @@ GenerateClassCluster=0
 DocumentUniqueId=OJUMQSRC
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for TD_Avionics\Design Rule Check - TD_Avionics_PCB.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for TD_Avionics\TD_Avionics.nsx
 DItemRevisionGUID=
 
