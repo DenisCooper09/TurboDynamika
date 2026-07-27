@@ -6,5 +6,3 @@ ProjectPath=pcb\TD_Avionics\TD_Avionics.PrjPcb
 ProjectPath=sim\TD_Simulations\TD_Simulations.PrjPcb
 [Project3]
 ProjectPath=lib\TurboDynamikaLibrary.LibPkg
-[Project4]
-ProjectPath=..\..\..\Users\Denis\Downloads\MAX-M10S-00B\MAX-M10S-00B.LibPkg

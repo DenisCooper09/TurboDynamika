@@ -262,16 +262,16 @@ DocumentPath=Project Outputs for TD_Avionics\TD_Avionics.nsx
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Revision
-Value=1.1
+Name=Engineer
+Value=Denys Bondar
 
 [Parameter2]
 Name=ParentProject
 Value=TurboDynamika
 
 [Parameter3]
-Name=Engineer
-Value=Denys Bondar
+Name=Revision
+Value=1.1
 
 [Configuration1]
 Name=Sources
@@ -1225,8 +1225,8 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=TurboDynamikaLibrary.IntLib
-ComponentDesignItemID0=CC1200RHBR
-ComponentSymbolReference0=CC1200RHBR
+ComponentDesignItemID0=7443844020022
+ComponentSymbolReference0=7443844020022
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1242,46 +1242,20 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Alternate_PartNumber
+ParameterName0=Comment
 ParameterUpdate0=1
-ParameterName1=Application_BuildNumber
+ParameterName1=Component Kind
 ParameterUpdate1=1
-ParameterName2=Comment
+ParameterName2=Description
 ParameterUpdate2=1
-ParameterName3=Component Kind
+ParameterName3=Inductance
 ParameterUpdate3=1
-ParameterName4=CompType
+ParameterName4=Library Reference
 ParameterUpdate4=1
-ParameterName5=Copyright
-ParameterUpdate5=1
-ParameterName6=Datasheet
-ParameterUpdate6=1
-ParameterName7=Description
-ParameterUpdate7=1
-ParameterName8=Library Reference
-ParameterUpdate8=1
-ParameterName9=Manufacturer
-ParameterUpdate9=1
-ParameterName10=Manufacturer_Name
-ParameterUpdate10=1
-ParameterName11=Manufacturer_Part_Number
-ParameterUpdate11=1
-ParameterName12=MountType
-ParameterUpdate12=1
-ParameterName13=PackageReference
-ParameterUpdate13=1
-ParameterName14=PartNumber
-ParameterUpdate14=1
-ParameterName15=RefDes
-ParameterUpdate15=1
-ParameterName16=RoHS
-ParameterUpdate16=1
-ParameterName17=TYPE
-ParameterUpdate17=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=RHB0032E
+ModelName0=WE-MXGI_4020
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
