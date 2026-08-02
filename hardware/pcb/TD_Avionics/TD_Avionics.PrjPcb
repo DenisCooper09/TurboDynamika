@@ -262,16 +262,16 @@ DocumentPath=Project Outputs for TD_Avionics\TD_Avionics.nsx
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Engineer
-Value=Denys Bondar
+Name=Revision
+Value=1.2
 
 [Parameter2]
 Name=ParentProject
 Value=TurboDynamika
 
 [Parameter3]
-Name=Revision
-Value=1.1
+Name=Engineer
+Value=Denys Bondar
 
 [Configuration1]
 Name=Sources
