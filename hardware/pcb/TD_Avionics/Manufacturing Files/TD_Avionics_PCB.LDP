@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\dev\TurboDynamika\hardware\pcb\TD_Avionics\TD_Avionics_PCB.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=td_avionics_pcb-roundholes-plated.txt|DrillLayers=gtl,gp1,g1,gp2,gp3,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=td_avionics_pcb-slotholes-plated.txt|DrillLayers=gtl,gp1,g1,gp2,gp3,gbl

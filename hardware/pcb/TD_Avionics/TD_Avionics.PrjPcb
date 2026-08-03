@@ -253,6 +253,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OJUMQSRC
 
+[Document13]
+DocumentPath=TD_Avionics.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for TD_Avionics\Design Rule Check - TD_Avionics_PCB.html
 DItemRevisionGUID=
@@ -263,7 +280,7 @@ DItemRevisionGUID=
 
 [Parameter1]
 Name=Revision
-Value=1.2
+Value=1.3
 
 [Parameter2]
 Name=ParentProject

@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: TD_Avionics_PCB.PcbDoc   03.08.2026  16:42:51
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : L1 SIG to L6 SIG
+ASCII Plated RoundHoles File : TD_Avionics_PCB-RoundHoles-Plated.TXT
+ASCII Plated SlotHoles File : TD_Avionics_PCB-SlotHoles-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             307       PTH        20.10inch (510.60mm)
+T2      8mil (0.203mm)                                            Round             5         PTH        0.31inch (7.99mm)
+T3      10mil (0.25mm)                                            Round             216       PTH        15.22inch (386.61mm)
+T4      12mil (0.3mm)                                             Round             137       PTH        12.54inch (318.62mm)
+T5      20mil (0.5mm)                                             Round             13        PTH        3.75inch (95.37mm)
+T6      20mil (0.5mm)                                             Slot              2         PTH        0.58inch (14.64mm)
+T7      106mil (2.7mm)                                            Round             4         PTH        3.66inch (93.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              684
+
+Total Processing Time (hh:mm:ss) : 00:00:01

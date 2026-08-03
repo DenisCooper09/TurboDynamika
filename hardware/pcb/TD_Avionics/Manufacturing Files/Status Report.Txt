@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [TD_Avionics_PCB.PcbDoc]
+   Generated File[TD_Avionics_PCB-RoundHoles-Plated.TXT]
+   Generated File[TD_Avionics_PCB-SlotHoles-Plated.TXT]
+   Generated File[TD_Avionics_PCB.LDP]
+   Generated File[TD_Avionics_PCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 16:42:52 On 03.08.2026
