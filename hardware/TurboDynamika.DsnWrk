@@ -2,10 +2,10 @@
 Version=1.0
 
 [Project1]
-ProjectPath=sim\TD_Simulations\TD_Simulations.PrjPcb
+ProjectPath=pcb\TD_Avionics\TD_Avionics.PrjPcb
 
 [Project2]
-ProjectPath=lib\TurboDynamikaLibrary.LibPkg
+ProjectPath=sim\TD_Simulations\TD_Simulations.PrjPcb
 
 [Project3]
-ProjectPath=pcb\TD_Avionics\TD_Avionics.PrjPcb
+ProjectPath=lib\TurboDynamikaLibrary.LibPkg
