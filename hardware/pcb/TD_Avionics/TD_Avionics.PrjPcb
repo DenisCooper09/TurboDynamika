@@ -271,24 +271,584 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for TD_Avionics\Design Rule Check - TD_Avionics_PCB.html
+DocumentPath=Project Outputs for TD_Avionics\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=Project Outputs for TD_Avionics\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for TD_Avionics\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for TD_Avionics\Design Rule Check - TD_Avionics_PCB.html
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for TD_Avionics\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for TD_Avionics\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for TD_Avionics\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for TD_Avionics\odb\steps\pcb\layers\bottom_surface_finish\features
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for TD_Avionics\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for TD_Avionics\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for TD_Avionics\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for TD_Avionics\odb\steps\pcb\layers\dielectric_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for TD_Avionics\odb\steps\pcb\layers\dielectric_3\features
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for TD_Avionics\odb\steps\pcb\layers\dielectric_4\features
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for TD_Avionics\odb\steps\pcb\layers\dielectric_5\features
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for TD_Avionics\odb\steps\pcb\layers\drill_plated_l6_sig-l1_sig\features
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for TD_Avionics\odb\steps\pcb\layers\l1_sig\features
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for TD_Avionics\odb\steps\pcb\layers\l2_gnd\features
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for TD_Avionics\odb\steps\pcb\layers\l3_sig\features
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for TD_Avionics\odb\steps\pcb\layers\l4_pwr\features
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for TD_Avionics\odb\steps\pcb\layers\l5_gnd\features
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for TD_Avionics\odb\steps\pcb\layers\l6_sig\features
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for TD_Avionics\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for TD_Avionics\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for TD_Avionics\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for TD_Avionics\odb\steps\pcb\layers\top_surface_finish\features
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for TD_Avionics\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for TD_Avionics\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for TD_Avionics\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Manufacturing Files\ProjectName_Revision-RoundHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Manufacturing Files\ProjectName_Revision-SlotHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Manufacturing Files\ProjectName_Revision.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Manufacturing Files\ProjectName_Revision.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Manufacturing Files\ProjectName_Revision.G1
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Manufacturing Files\ProjectName_Revision.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Manufacturing Files\ProjectName_Revision.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Manufacturing Files\ProjectName_Revision.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Manufacturing Files\ProjectName_Revision.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Manufacturing Files\ProjectName_Revision.GM
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Manufacturing Files\ProjectName_Revision.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Manufacturing Files\ProjectName_Revision.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Manufacturing Files\ProjectName_Revision.GP3
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Manufacturing Files\ProjectName_Revision.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Manufacturing Files\ProjectName_Revision.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Manufacturing Files\ProjectName_Revision.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Manufacturing Files\ProjectName_Revision.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for TD_Avionics\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument48]
 DocumentPath=Project Outputs for TD_Avionics\TD_Avionics.nsx
 DItemRevisionGUID=
 
+[GeneratedDocument49]
+DocumentPath=='ProjectName'+'_'+'Revision'\TD_Avionics_PCB-RoundHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath==ProjectName 09-26-2026 15-47-56\TD_Avionics_PCB-RoundHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Manufacturing Files\TD_Avionics_PCB-RoundHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for TD_Avionics\TD_Avionics_PCB-RoundHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=TDAvionics_JLCPCB_ManufacturingFiles 09-26-2026 15-50-32\TD_Avionics_PCB-RoundHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=='ProjectName'+'_'+'Revision'\TD_Avionics_PCB-SlotHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath==ProjectName 09-26-2026 15-47-56\TD_Avionics_PCB-SlotHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Manufacturing Files\TD_Avionics_PCB-SlotHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for TD_Avionics\TD_Avionics_PCB-SlotHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=TDAvionics_JLCPCB_ManufacturingFiles 09-26-2026 15-50-32\TD_Avionics_PCB-SlotHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=='ProjectName'+'_'+'Revision'\TD_Avionics_PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath==ProjectName 09-26-2026 15-47-56\TD_Avionics_PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Manufacturing Files\TD_Avionics_PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs for TD_Avionics\TD_Avionics_PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=TDAvionics_JLCPCB_ManufacturingFiles 09-26-2026 15-50-32\TD_Avionics_PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=='ProjectName'+'_'+'Revision'\TD_Avionics_PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath==ProjectName 09-26-2026 15-47-56\TD_Avionics_PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Manufacturing Files\TD_Avionics_PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Project Outputs for TD_Avionics\TD_Avionics_PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=TDAvionics_JLCPCB_ManufacturingFiles 09-26-2026 15-50-32\TD_Avionics_PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=='ProjectName'+'_'+'Revision'\TD_Avionics_PCB.G1
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath==ProjectName 09-26-2026 15-47-56\TD_Avionics_PCB.G1
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Manufacturing Files\TD_Avionics_PCB.G1
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Project Outputs for TD_Avionics\TD_Avionics_PCB.G1
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=TDAvionics_JLCPCB_ManufacturingFiles 09-26-2026 15-50-32\TD_Avionics_PCB.G1
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=='ProjectName'+'_'+'Revision'\TD_Avionics_PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath==ProjectName 09-26-2026 15-47-56\TD_Avionics_PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Manufacturing Files\TD_Avionics_PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Project Outputs for TD_Avionics\TD_Avionics_PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=TDAvionics_JLCPCB_ManufacturingFiles 09-26-2026 15-50-32\TD_Avionics_PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=='ProjectName'+'_'+'Revision'\TD_Avionics_PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath==ProjectName 09-26-2026 15-47-56\TD_Avionics_PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Manufacturing Files\TD_Avionics_PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=Project Outputs for TD_Avionics\TD_Avionics_PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=TDAvionics_JLCPCB_ManufacturingFiles 09-26-2026 15-50-32\TD_Avionics_PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=='ProjectName'+'_'+'Revision'\TD_Avionics_PCB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath==ProjectName 09-26-2026 15-47-56\TD_Avionics_PCB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=Manufacturing Files\TD_Avionics_PCB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument87]
+DocumentPath=Project Outputs for TD_Avionics\TD_Avionics_PCB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument88]
+DocumentPath=TDAvionics_JLCPCB_ManufacturingFiles 09-26-2026 15-50-32\TD_Avionics_PCB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument89]
+DocumentPath=='ProjectName'+'_'+'Revision'\TD_Avionics_PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument90]
+DocumentPath==ProjectName 09-26-2026 15-47-56\TD_Avionics_PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument91]
+DocumentPath=Manufacturing Files\TD_Avionics_PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument92]
+DocumentPath=Project Outputs for TD_Avionics\TD_Avionics_PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument93]
+DocumentPath=TDAvionics_JLCPCB_ManufacturingFiles 09-26-2026 15-50-32\TD_Avionics_PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument94]
+DocumentPath=='ProjectName'+'_'+'Revision'\TD_Avionics_PCB.GM
+DItemRevisionGUID=
+
+[GeneratedDocument95]
+DocumentPath==ProjectName 09-26-2026 15-47-56\TD_Avionics_PCB.GM
+DItemRevisionGUID=
+
+[GeneratedDocument96]
+DocumentPath=Manufacturing Files\TD_Avionics_PCB.GM
+DItemRevisionGUID=
+
+[GeneratedDocument97]
+DocumentPath=Project Outputs for TD_Avionics\TD_Avionics_PCB.GM
+DItemRevisionGUID=
+
+[GeneratedDocument98]
+DocumentPath=TDAvionics_JLCPCB_ManufacturingFiles 09-26-2026 15-50-32\TD_Avionics_PCB.GM
+DItemRevisionGUID=
+
+[GeneratedDocument99]
+DocumentPath=='ProjectName'+'_'+'Revision'\TD_Avionics_PCB.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument100]
+DocumentPath==ProjectName 09-26-2026 15-47-56\TD_Avionics_PCB.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument101]
+DocumentPath=Manufacturing Files\TD_Avionics_PCB.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument102]
+DocumentPath=Project Outputs for TD_Avionics\TD_Avionics_PCB.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument103]
+DocumentPath=TDAvionics_JLCPCB_ManufacturingFiles 09-26-2026 15-50-32\TD_Avionics_PCB.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument104]
+DocumentPath=='ProjectName'+'_'+'Revision'\TD_Avionics_PCB.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument105]
+DocumentPath==ProjectName 09-26-2026 15-47-56\TD_Avionics_PCB.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument106]
+DocumentPath=Manufacturing Files\TD_Avionics_PCB.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument107]
+DocumentPath=Project Outputs for TD_Avionics\TD_Avionics_PCB.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument108]
+DocumentPath=TDAvionics_JLCPCB_ManufacturingFiles 09-26-2026 15-50-32\TD_Avionics_PCB.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument109]
+DocumentPath=='ProjectName'+'_'+'Revision'\TD_Avionics_PCB.GP3
+DItemRevisionGUID=
+
+[GeneratedDocument110]
+DocumentPath==ProjectName 09-26-2026 15-47-56\TD_Avionics_PCB.GP3
+DItemRevisionGUID=
+
+[GeneratedDocument111]
+DocumentPath=Manufacturing Files\TD_Avionics_PCB.GP3
+DItemRevisionGUID=
+
+[GeneratedDocument112]
+DocumentPath=Project Outputs for TD_Avionics\TD_Avionics_PCB.GP3
+DItemRevisionGUID=
+
+[GeneratedDocument113]
+DocumentPath=TDAvionics_JLCPCB_ManufacturingFiles 09-26-2026 15-50-32\TD_Avionics_PCB.GP3
+DItemRevisionGUID=
+
+[GeneratedDocument114]
+DocumentPath=='ProjectName'+'_'+'Revision'\TD_Avionics_PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument115]
+DocumentPath==ProjectName 09-26-2026 15-47-56\TD_Avionics_PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument116]
+DocumentPath=Manufacturing Files\TD_Avionics_PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument117]
+DocumentPath=Project Outputs for TD_Avionics\TD_Avionics_PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument118]
+DocumentPath=TDAvionics_JLCPCB_ManufacturingFiles 09-26-2026 15-50-32\TD_Avionics_PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument119]
+DocumentPath=='ProjectName'+'_'+'Revision'\TD_Avionics_PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument120]
+DocumentPath==ProjectName 09-26-2026 15-47-56\TD_Avionics_PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument121]
+DocumentPath=Manufacturing Files\TD_Avionics_PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument122]
+DocumentPath=Project Outputs for TD_Avionics\TD_Avionics_PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument123]
+DocumentPath=TDAvionics_JLCPCB_ManufacturingFiles 09-26-2026 15-50-32\TD_Avionics_PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument124]
+DocumentPath=='ProjectName'+'_'+'Revision'\TD_Avionics_PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument125]
+DocumentPath==ProjectName 09-26-2026 15-47-56\TD_Avionics_PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument126]
+DocumentPath=Manufacturing Files\TD_Avionics_PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument127]
+DocumentPath=Project Outputs for TD_Avionics\TD_Avionics_PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument128]
+DocumentPath=TDAvionics_JLCPCB_ManufacturingFiles 09-26-2026 15-50-32\TD_Avionics_PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument129]
+DocumentPath=='ProjectName'+'_'+'Revision'\TD_Avionics_PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument130]
+DocumentPath==ProjectName 09-26-2026 15-47-56\TD_Avionics_PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument131]
+DocumentPath=Manufacturing Files\TD_Avionics_PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument132]
+DocumentPath=Project Outputs for TD_Avionics\TD_Avionics_PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument133]
+DocumentPath=TDAvionics_JLCPCB_ManufacturingFiles 09-26-2026 15-50-32\TD_Avionics_PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument134]
+DocumentPath=='ProjectName'+'_'+'Revision'\TD_Avionics_PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument135]
+DocumentPath=Manufacturing Files\TD_Avionics_PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument136]
+DocumentPath=Project Outputs for TD_Avionics\TD_Avionics_PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument137]
+DocumentPath=TDAvionics_JLCPCB_ManufacturingFiles 09-26-2026 15-50-32\TD_Avionics_PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument138]
+DocumentPath=='ProjectName'+'_'+'Revision'\TD_Avionics_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument139]
+DocumentPath=Manufacturing Files\TD_Avionics_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument140]
+DocumentPath=Project Outputs for TD_Avionics\TD_Avionics_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument141]
+DocumentPath=TDAvionics_JLCPCB_ManufacturingFiles 09-26-2026 15-50-32\TD_Avionics_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument142]
+DocumentPath=Project Outputs for TD_Avionics\odb\steps\pcb\layers\drill_plated_l6_sig-l1_sig\tools
+DItemRevisionGUID=
+
 [Parameter1]
-Name=Engineer
-Value=Denys Bondar
+Name=Revision
+Value=1.3
 
 [Parameter2]
 Name=ParentProject
 Value=TurboDynamika
 
 [Parameter3]
-Name=Revision
-Value=1.3
+Name=Engineer
+Value=Denys Bondar
 
 [Configuration1]
 Name=Sources
@@ -1091,47 +1651,51 @@ Configuration4_Name248=OutputConfigurationParameter247
 Configuration4_Item248=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical16|Polygon=Full|PrintOutIndex=24|Record=PcbPrintLayer|DocumentPath=C:\dev\altium\TurboDynamika\hardware\pcb\TD_Avionics\TD_Avionics_PCB.PcbDoc
 Configuration4_Name249=OutputConfigurationParameter248
 Configuration4_Item249=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical31|Polygon=Full|PrintOutIndex=24|Record=PcbPrintLayer|DocumentPath=C:\dev\altium\TurboDynamika\hardware\pcb\TD_Avionics\TD_Avionics_PCB.PcbDoc
-OutputType5=Gerber
-OutputName5=Gerber Files
+OutputType5=Gerber X2
+OutputName5=Gerber X2 Files
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
-OutputType6=Gerber X2
-OutputName6=Gerber X2 Files
+OutputType6=IPC2581
+OutputName6=IPC-2581 Files
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=IPC2581
-OutputName7=IPC-2581 Files
+OutputType7=Mask
+OutputName7=Solder/Paste Mask Prints
 OutputDocumentPath7=
 OutputVariantName7=[No Variations]
 OutputDefault7=0
-OutputType8=Mask
-OutputName8=Solder/Paste Mask Prints
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType8=NC Drill
+OutputName8=NC Drill Files
 OutputDocumentPath8=
-OutputVariantName8=[No Variations]
+OutputVariantName8=
 OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType9=NC Drill
-OutputName9=NC Drill Files
+OutputType9=ODB
+OutputName9=ODB++ Files
 OutputDocumentPath9=
-OutputVariantName9=
+OutputVariantName9=[No Variations]
 OutputDefault9=0
-OutputType10=ODB
-OutputName10=ODB++ Files
+Configuration9_Name1=ForceUpdateSettings
+Configuration9_Item1=False
+Configuration9_Name2=OutputConfigurationParameter1
+Configuration9_Item2=Compression_None=True|Compression_tar_tgz=True|Compression_zip=True|DifferentFootprints=False|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=False|IncludeComponents=True|IncludeNetList=True|IncludeUnconnectedMidLayerPads=False|IncludeVariantsData=False|IntentionalShorts=False|MergeNetTieNets=False|NeutralizeNetNames=False|ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=-1000|ODBProfileLayerV7=-1|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBottomLayerPlot=True|PlotBottomOverlayPlot=True|PlotBottomPastePlot=True|PlotBottomSolderPlot=True|PlotCounterHolesPairs=False|PlotDrillDrawingPair0_DrillType=Regular|PlotDrillDrawingPair0_HighLayer=Bottom Layer|PlotDrillDrawingPair0_LowLayer=Top Layer|PlotDrillDrawingPair0_Plot=False|PlotDrillDrawingPairs=False|PlotDrillGuidePair0_DrillType=Regular|PlotDrillGuidePair0_HighLayer=Bottom Layer|PlotDrillGuidePair0_LowLayer=Top Layer|PlotDrillGuidePair0_Plot=False|PlotDrillGuidePairs=False|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=True|PlotInternalPlane2Plot=True|PlotInternalPlane3Plot=True|PlotInternalPlane4Plot=False|PlotInternalPlane5Plot=False|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=False|PlotMechanical10Plot=False|PlotMechanical11Plot=False|PlotMechanical12Plot=False|PlotMechanical13Plot=False|PlotMechanical14Plot=False|PlotMechanical15Plot=False|PlotMechanical16Plot=False|PlotMechanical1Plot=False|PlotMechanical2Plot=False|PlotMechanical3Plot=False|PlotMechanical4Plot=False|PlotMechanical5Plot=False|PlotMechanical6Plot=False|PlotMechanical7Plot=False|PlotMechanical8Plot=False|PlotMechanical9Plot=False|PlotMicroViasPairs=False|PlotMidLayer10Plot=False|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=False|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=True|PlotMidLayer30Plot=False|PlotMidLayer3Plot=False|PlotMidLayer4Plot=False|PlotMidLayer5Plot=False|PlotMidLayer6Plot=False|PlotMidLayer7Plot=False|PlotMidLayer8Plot=False|PlotMidLayer9Plot=False|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPair0_Plot=False|PlotNPTHPairs=False|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPair0_Plot=True|PlotPTHPairs=False|PlotTopLayerPlot=True|PlotTopOverlayPlot=True|PlotTopPastePlot=True|PlotTopSolderPlot=True|PlotViaTypeDrillDrawingPair0_DrillType=Regular|PlotViaTypeDrillDrawingPair0_HighLayer=Top Layer|PlotViaTypeDrillDrawingPair0_LowLayer=Bottom Layer|PlotViaTypeDrillDrawingPair0_Plot=False|PlotViaTypeDrillDrawingPair0_ViaStructureType=1B|PlotViaTypeDrillDrawingPair1_DrillType=Regular|PlotViaTypeDrillDrawingPair1_HighLayer=Top Layer|PlotViaTypeDrillDrawingPair1_LowLayer=Bottom Layer|PlotViaTypeDrillDrawingPair1_Plot=False|PlotViaTypeDrillDrawingPair1_ViaStructureType=7|PlotViaTypeDrillDrawingPairs=False|PlotViaTypeDrillGuidePair0_DrillType=Regular|PlotViaTypeDrillGuidePair0_HighLayer=Top Layer|PlotViaTypeDrillGuidePair0_LowLayer=Bottom Layer|PlotViaTypeDrillGuidePair0_Plot=False|PlotViaTypeDrillGuidePair0_ViaStructureType=1B|PlotViaTypeDrillGuidePair1_DrillType=Regular|PlotViaTypeDrillGuidePair1_HighLayer=Top Layer|PlotViaTypeDrillGuidePair1_LowLayer=Bottom Layer|PlotViaTypeDrillGuidePair1_Plot=False|PlotViaTypeDrillGuidePair1_ViaStructureType=7|PlotViaTypeDrillGuidePairs=False|PlotViaTypeDrillPair0_DrillType=Regular|PlotViaTypeDrillPair0_HighLayer=Top Layer|PlotViaTypeDrillPair0_LowLayer=Bottom Layer|PlotViaTypeDrillPair0_Plot=False|PlotViaTypeDrillPair0_ViaStructureType=1B|PlotViaTypeDrillPair1_DrillType=Regular|PlotViaTypeDrillPair1_HighLayer=Top Layer|PlotViaTypeDrillPair1_LowLayer=Bottom Layer|PlotViaTypeDrillPair1_Plot=False|PlotViaTypeDrillPair1_ViaStructureType=7|PlotViaTypeDrillPairs=False|Record=ODBView|RemoveComponentProperties=False|ToolsByDrillSymbols=False|Units=Metric|Version=8.1|DocumentPath=C:\dev\altium\TurboDynamika\hardware\pcb\TD_Avionics\TD_Avionics_PCB.PcbDoc
+OutputType10=Plane
+OutputName10=Power-Plane Prints
 OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
-OutputType11=Plane
-OutputName11=Power-Plane Prints
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType11=Test Points
+OutputName11=Test Point Report
 OutputDocumentPath11=
-OutputVariantName11=[No Variations]
+OutputVariantName11=
 OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType12=Test Points
-OutputName12=Test Point Report
+OutputType12=Gerber
+OutputName12=Gerber Files
 OutputDocumentPath12=
-OutputVariantName12=
+OutputVariantName12=[No Variations]
 OutputDefault12=0
 
 [OutputGroup6]
@@ -1193,11 +1757,6 @@ OutputName10=Manufacturing Data
 OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
-OutputType11=GOSTBOM
-OutputName11=GOST BOM
-OutputDocumentPath11=
-OutputVariantName11=[No Variations]
-OutputDefault11=0
 
 [OutputGroup7]
 Name=Other Outputs

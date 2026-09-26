@@ -15,13 +15,13 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=GenerateOutputs.OutJob
+Name=
 Description=
 TargetOutputMedium=Manufacturing Files
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=XP-2200 Series(Network)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -97,9 +97,9 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=C:\dev\TurboDynamika\hardware\pcb\TD_Avionics\Manufacturing Files\
+OutputFilePath3=C:\dev\altium\TurboDynamika\hardware\pcb\TD_Avionics\JLCPCB_Manufacturing_Files
 ReleaseManaged3=0
-OutputBasePath3=Manufacturing Files\
+OutputBasePath3=JLCPCB_Manufacturing_Files\
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=
@@ -114,7 +114,7 @@ OpenOutput3=1
 [GeneratedFilesSettings]
 RelativeOutputPath2=C:\dev\TurboDynamika\hardware\sch\
 OpenOutputs2=1
-RelativeOutputPath3=C:\dev\TurboDynamika\hardware\pcb\TD_Avionics\Manufacturing Files\
+RelativeOutputPath3=C:\dev\altium\TurboDynamika\hardware\pcb\TD_Avionics\JLCPCB_Manufacturing_Files
 OpenOutputs3=1
 AddToProject3=1
 TimestampFolder3=0
