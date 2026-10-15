@@ -2,92 +2,15 @@
 FileName = TD_Avionics_PCB.GBR
 AutoAperture = True
 *************************************************************
-Generating : L1 SIG
-      File : TD_Avionics_PCB.GTL
+Generating : Bottom Overlay
+      File : TD_Avionics_PCB.GBO
 
-    Adding Layer      : L1 SIG
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D10
-    D15
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D91
-    D100
-    D122
-    D125
-    D126
-    D127
-    D128
-    D129
-    D130
-    D131
-    D132
-    D133
-    D134
-    D135
-    D136
-    D137
-    D138
-    D139
-    D140
+    D16
     D141
-    D142
-    D143
-    D144
-    D145
-    D146
-    D147
-    D148
-    D149
 *************************************************************
 
 *************************************************************
@@ -156,25 +79,6 @@ Used DCodes :
     D69
     D70
     D71
-    D72
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : TD_Avionics_PCB.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : L6 SIG
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D42
-    D160
-    D162
-    D163
 *************************************************************
 
 *************************************************************
@@ -196,119 +100,25 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : TD_Avionics_PCB.GBS
+Generating : L3 SIG
+      File : TD_Avionics_PCB.G1
 
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : L6 SIG
+    Adding Layer      : L3 SIG
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D90
-    D117
-    D118
-    D119
-    D120
     D121
-    D122
-    D123
-    D124
-    D164
-    D165
-    D166
-    D167
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : TD_Avionics_PCB.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D16
-    D140
-*************************************************************
-
-*************************************************************
-Generating : L4 PWR
-      File : TD_Avionics_PCB.GP2
-
-    Adding Layer      : L4 PWR
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D141
-    D150
-    D151
-    D155
-    D156
-    D157
-    D158
-    D159
-*************************************************************
-
-*************************************************************
-Generating : L5 GND
-      File : TD_Avionics_PCB.GP3
-
-    Adding Layer      : L5 GND
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D150
-    D151
-    D152
-*************************************************************
-
-*************************************************************
-Generating : L6 SIG
-      File : TD_Avionics_PCB.GBL
-
-    Adding Layer      : L6 SIG
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D42
-    D122
-    D128
-    D137
-    D138
-    D143
+    D127
+    D136
     D145
     D146
     D147
     D148
     D149
-    D160
-    D161
-    D162
-    D163
-*************************************************************
-
-*************************************************************
-Generating : L2 GND
-      File : TD_Avionics_PCB.GP1
-
-    Adding Layer      : L2 GND
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D150
-    D151
     D152
+    D153
 *************************************************************
 
 *************************************************************
@@ -325,14 +135,15 @@ Generating : Top Solder
 Used DCodes :
     D25
     D26
-    D37
+    D36
+    D50
     D51
     D52
     D53
     D54
     D55
     D56
-    D57
+    D72
     D73
     D74
     D75
@@ -384,29 +195,216 @@ Used DCodes :
     D121
     D122
     D123
-    D124
 *************************************************************
 
 *************************************************************
-Generating : L3 SIG
-      File : TD_Avionics_PCB.G1
+Generating : L2 GND
+      File : TD_Avionics_PCB.GP1
 
-    Adding Layer      : L3 SIG
+    Adding Layer      : L2 GND
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D122
-    D128
-    D138
+    D145
+    D150
+    D151
+*************************************************************
+
+*************************************************************
+Generating : L6 SIG
+      File : TD_Avionics_PCB.GBL
+
+    Adding Layer      : L6 SIG
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D41
+    D121
+    D127
+    D136
+    D137
+    D139
     D145
     D146
     D147
     D148
     D149
-    D153
+    D159
+    D160
+    D161
+    D162
+*************************************************************
+
+*************************************************************
+Generating : L5 GND
+      File : TD_Avionics_PCB.GP3
+
+    Adding Layer      : L5 GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D145
+    D150
+    D151
+*************************************************************
+
+*************************************************************
+Generating : L4 PWR
+      File : TD_Avionics_PCB.GP2
+
+    Adding Layer      : L4 PWR
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D142
+    D145
+    D150
     D154
+    D155
+    D156
+    D157
+    D158
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : TD_Avionics_PCB.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : L6 SIG
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D41
+    D159
+    D161
+*************************************************************
+
+*************************************************************
+Generating : L1 SIG
+      File : TD_Avionics_PCB.GTL
+
+    Adding Layer      : L1 SIG
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D15
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D90
+    D99
+    D121
+    D124
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
+    D131
+    D132
+    D133
+    D134
+    D135
+    D136
+    D137
+    D138
+    D139
+    D140
+    D141
+    D142
+    D143
+    D144
+    D145
+    D146
+    D147
+    D148
+    D149
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : TD_Avionics_PCB.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : L6 SIG
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D89
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D163
+    D164
+    D165
+    D166
 *************************************************************
 
 *************************************************************
@@ -415,6 +413,6 @@ Generating : Profile
 
 
 Used DCodes :
-    D168
+    D167
 *************************************************************
 

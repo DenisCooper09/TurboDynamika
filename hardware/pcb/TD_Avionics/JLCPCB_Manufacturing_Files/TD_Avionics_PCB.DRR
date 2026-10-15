@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: TD_Avionics_PCB.PcbDoc   27.09.2026  3:39:47
+NCDrill File Report For: TD_Avionics_PCB.PcbDoc   07.10.2026  21:34:20
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : L1 SIG to L6 SIG
@@ -8,14 +8,14 @@ ASCII Plated SlotHoles File : TD_Avionics_PCB-SlotHoles-Plated.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      8mil (0.2mm)                                              Round             323       PTH        19.27inch (489.46mm)
-T2      8mil (0.203mm)                                            Round             5         PTH        0.31inch (7.99mm)
+T1      8mil (0.2mm)                                              Round             317       PTH        18.18inch (461.69mm)
+T2      8mil (0.203mm)                                            Round             5         PTH        0.28inch (7.12mm)
 T3      10mil (0.25mm)                                            Round             172       PTH        13.12inch (333.19mm)
 T4      12mil (0.3mm)                                             Round             137       PTH        12.58inch (319.57mm)
 T5      20mil (0.5mm)                                             Round             13        PTH        3.93inch (99.85mm)
 T6      20mil (0.5mm)                                             Slot              2         PTH        0.58inch (14.64mm)
 T7      106mil (2.7mm)                                            Round             4         PTH        3.66inch (93.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              656
+Totals                                                                              650
 
 Total Processing Time (hh:mm:ss) : 00:00:00
